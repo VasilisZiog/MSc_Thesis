@@ -20,7 +20,7 @@ emissions of gaseous pollutants were explored and possible interactions /
 interrelationships were investigated. In particular, data conversion and processing was
 performed using Python and its appropriate libraries (NumPy and Pandas), for the
 statistical analysis and visualization, the matplotlib and seaborn libraries were used,
-while for the development of the prediction model the scikitlearn.
+while for the development of the prediction model the scikit-learn library.
 
 The results of the analysis and the regression model that emerged, if supported by
 the proposed modifications and extensions, can help to adopt modern techniques to
