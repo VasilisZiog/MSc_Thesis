@@ -1,0 +1,9 @@
+0=Calibration
+1=Valid
+2=Valid corrected
+3=Below detection limit 
+4=Invalid sample error
+5=Invalid analysis error
+6=Data missing - maintenance/repair
+7= Data missing 
+8=Anomolous data 
