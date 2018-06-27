@@ -1,4 +1,4 @@
-# Smart Dublin
+# Abstract
 
 The population in large urban centers has increased significantly over the last decades,
 resulting in a multitude of economic, social and environmental problems, putting their
